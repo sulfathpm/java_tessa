@@ -2,6 +2,7 @@ package vehicle;
 
 public class Vehicle implements Displayable {
 
+    public static final String count = null;
     protected String make, model;
     public static int vehicleCount = 0;
 
